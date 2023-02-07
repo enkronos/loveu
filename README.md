@@ -14,7 +14,7 @@ Smart Contract on Etherscan: https://etherscan.io/token/0x38fDA593Ac9208D055cC24
 Product Website: https://loyaltyvenue.com/<br>
 White Paper: http://ico.loyaltyvenue.com/wp-content/uploads/2023/02/LV_WP_1.0.pdf<br>
 <br>
-**Social Media Presence:**
+**Social Media Presence**:<br>
 LinkedIn: https://www.linkedin.com/showcase/loyaltyvenue<br>
 Facebook: https://www.facebook.com/loyaltyvenue/<br>
 Twitter: https://twitter.com/enkronos/<br>
